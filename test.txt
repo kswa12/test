@@ -1,4 +1,4 @@
-kyj hello byebye
+﻿kyj hello byebye
 혜영이는 젤이뻐
 혜영이는 세젤예야
 혜영이는 우젤예야
@@ -9,8 +9,3 @@ kyj hello byebye
 
 have a bad day.
 hello.
-
-lovelovelove
-how are you
-I'm fine
-bye bye
